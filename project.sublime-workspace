@@ -1,0 +1,489 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"lo",
+				"Log(object message)	void"
+			],
+			[
+				"o",
+				"other	Collider"
+			],
+			[
+				"is",
+				"isRButtonDown	bool"
+			],
+			[
+				"my",
+				"myRigidbody	Rigidbody"
+			],
+			[
+				"set",
+				"SetBool(string name, bool value)	void"
+			],
+			[
+				"sco",
+				"scoreText	GameObject"
+			],
+			[
+				"Unitye",
+				"UnityEngine	UnityEngine"
+			],
+			[
+				"u",
+				"using	using"
+			],
+			[
+				"in",
+				"Instantiate(Object original)	Object"
+			],
+			[
+				"In",
+				"Instantiate(Object original)	Object"
+			],
+			[
+				"Set",
+				"SetBool(string name, bool value)	void"
+			],
+			[
+				"Get",
+				"GetKeyDown(string name)	bool"
+			],
+			[
+				"GetCu",
+				"GetCurrentAnimatorStateInfo(int layerIndex)	AnimatorStateInfo"
+			],
+			[
+				"ri",
+				"RightArrow	KeyCode"
+			],
+			[
+				"GetKey",
+				"GetKey(KeyCode key)	bool"
+			],
+			[
+				"Vec",
+				"Vector3()	Vector3()"
+			],
+			[
+				"ani",
+				"AnimationState	AnimationState"
+			],
+			[
+				"To",
+				"ToString()	string"
+			],
+			[
+				"getco",
+				"GetComponent<T>()	T"
+			],
+			[
+				"game",
+				"gameoverText	GameObject"
+			],
+			[
+				"de",
+				"defaultColor	Color"
+			],
+			[
+				"Colli",
+				"Collision	Collision"
+			],
+			[
+				"Re",
+				"Renderer	Renderer"
+			],
+			[
+				"R",
+				"RightArrow	KeyCode"
+			],
+			[
+				"Key",
+				"KeyCode	KeyCode"
+			],
+			[
+				"Left",
+				"LeftArrow	KeyCode"
+			],
+			[
+				"mag",
+				"magnification	float"
+			],
+			[
+				"s",
+				"Sin(float f)	float"
+			],
+			[
+				"local",
+				"localScale	Vector3 { get; set; }"
+			],
+			[
+				"Ma",
+				"Mathf	Mathf"
+			],
+			[
+				"Ve",
+				"Vector3()	Vector3()"
+			],
+			[
+				"p",
+				"private	private"
+			],
+			[
+				"SetTex",
+				"SetTextureOffset(string propertyName, Vector2 offset)	void"
+			],
+			[
+				"f",
+				"float	float"
+			],
+			[
+				"Coll",
+				"Collider2D	Collider2D"
+			],
+			[
+				"Destroy",
+				"Destroy(Object obj)	void"
+			],
+			[
+				"Co",
+				"Collider2D	Collider2D"
+			],
+			[
+				"gameObject",
+				"GameObject	GameObject"
+			],
+			[
+				"shot",
+				"shotDelay	float"
+			],
+			[
+				"Getchi",
+				"GetChildCount()	int"
+			],
+			[
+				"IE",
+				"IEnumerator	IEnumerator"
+			],
+			[
+				"Getc",
+				"GetComponent<T>()	T"
+			],
+			[
+				"Spa",
+				"Spaceship	Spaceship"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "/C/Unity/Study_GoForwardUnityChan/Assets/UnityChanController.cs",
+			"settings":
+			{
+				"buffer_size": 212,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "project.sublime-project",
+			"settings":
+			{
+				"buffer_size": 100,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 140.0,
+		"last_filter": "install",
+		"selected_items":
+		[
+			[
+				"install",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 410.0
+	},
+	"console":
+	{
+		"height": 763.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404e330c659d4bb41d3bdf022e94cab3cd0';pf = 'Package Control.sublime-package';ipp = sublime.installed_packages_path();urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) );by = urllib.request.urlopen( 'http://sublime.wbond.net/’ + pf.replace(' ', '%20')).read();dh = hashlib.sha256(by).hexdigest();print( 'Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)",
+			"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404e330c659d4bb41d3bdf022e94cab3cd0';pf = 'Package Control.sublime-package';ipp = sublime.installed_packages_path();urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) );by = urllib.request.urlopen( 'http://sublime.wbond.net/’ + pf.replace(' ', '%20')).read();dh = hashlib.sha256(by).hexdigest();print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)",
+			"by = urllib.request.urlopen( 'http://sublime.wbond.net/’ + pf.replace(' ', '%20')).read();",
+			"urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) );",
+			"ipp = sublime.installed_packages_path();",
+			"pf = 'Package Control.sublime-package';",
+			"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404e330c659d4bb41d3bdf022e94cab3cd0';",
+			"import urllib.request,os,hashlib; h = ‘7183a2d3e96f11eeadd761d777e62404e330c659d4bb41d3bdf022e94cab3cd0’; pf = 'Package Control.sublime-package’; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://sublime.wbond.net/’ + pf.replace(’ ’, ’%20’)).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install’ % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb’ ).write(by)",
+			"import urllib.request,os,hashlib; h = ‘7183a2d3e96f11eeadd761d777e62404e330c659d4bb41d3bdf022e94cab3cd0’; pf = 'Package Control.sublime-package’; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://sublime.wbond.net/’ + pf.replace(’ ’, ’%20’)).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install’ % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb’ ).write(by)import urllib.request,os,hashlib; h = ‘7183a2d3e96f11eeadd761d777e62404e330c659d4bb41d3bdf022e94cab3cd0’; pf = 'Package Control.sublime-package’; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://sublime.wbond.net/’ + pf.replace(’ ’, ’%20’)).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install’ % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb’ ).write(by)",
+			"print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)",
+			"by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest();",
+			"urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) );",
+			"pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path();",
+			"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88';",
+			"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)",
+			"os",
+			"import urllib.request",
+			"import urllib.request,os,hashlib; h = ‘7183a2d3e96f11eeadd761d777e62404e330c659d4bb41d3bdf022e94cab3cd0’; pf = 'Package Control.sublime-package’; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://sublime.wbond.net/’ + pf.replace(’ ’, ’%20’)).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install’ % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb’ ).write(by)",
+			"import urllib.request,os,hashlib; h = "
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/Unity/Study_StepAsideUnityChan"
+	],
+	"file_history":
+	[
+		"/C/Unity/Study_GoForwardUnityChan/Assets/UnityChan2D/Scripts/UnityChan2DController.cs",
+		"/C/Unity/Study_StepAsideUnityChan/Assets/Destroy_Controller.cs",
+		"/C/Unity/Study_StepAsideUnityChan/Assets/CartoonCarFree/ItemGenerator.cs",
+		"/C/Unity/Study_StepAsideUnityChan/Assets/CoinController.cs",
+		"/C/Unity/Study_StepAsideUnityChan/Assets/DestoryContlloer.cs",
+		"/C/Unity/Study_3DGameApp/Assets/ScoreController.cs",
+		"/C/Unity/Study_3DGameApp/Assets/BrightneessRegulator.cs",
+		"/C/Unity/Study_3DGameApp/Assets/BallController.cs",
+		"/C/Unity/Study_3DGameApp/Assets/CollisionController.cs",
+		"/C/Unity/Study_3DGameApp/Assets/FripperController.cs",
+		"/C/Unity/Study_3DGameApp/Assets/CloudController.cs",
+		"/C/Unity/Study_3DGameApp/Assets/StarController.cs",
+		"/C/Unity/Study_3DGameApp/Assets/Test.cs",
+		"/C/Unity/Study_3DGameApp/project.sublime-project",
+		"/C/Unity/Stady_2d-shooting-game-master/project.sublime-project",
+		"/C/Unity/Project_horror game/Assets/script/Collider_test.cs",
+		"/C/Unity/sublime_text_in_unity.sublime-project",
+		"/C/Unity/Stady_2d-shooting-game-master/progect.sublime-project",
+		"/C/Unity/Project_horror game/horror.sublime-project",
+		"/C/Unity/Lab_door/Assets/suraidodoayoko.cs",
+		"/C/Unity/Stady_2d-shooting-game-master/2d-shooting-game-master.sln",
+		"/C/Unity/Project_horror game/Assets/EasyRoads3D Free/Release Notes.txt",
+		"/C/Unity/Project_horror game/Assets/EasyRoads3D Free/Editor/RoadObjectEditorScript.js",
+		"/C/Unity/Project_horror game/Assets/EasyRoads3D Free/_manual.html",
+		"/C/Unity/Project_horror game/Assets/EasyRoads3D Free/_readme.txt",
+		"/C/Unity/Lab_horror/Assets/download/RoadKit/MouseOrbit.js",
+		"/C/Unity/2d-shooting-game-master/Assets/Scripts/Spaceship.cs",
+		"/C/Unity/Lab_horror/Assets/Standard Assets/Vehicles/Car/Scripts/CarUserControl.cs",
+		"/C/Unity/Lab_horror/Assets/MasterCube/Script/MasterCube.cs",
+		"/C/Unity/Lab_horror/Assets/download/EasyRoads3D Free/_manual.html",
+		"/C/Unity/2d-shooting-game-master/2d-shooting.sublime-project",
+		"/C/Users/友槻/AppData/Roaming/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/C/Users/友槻/AppData/Roaming/Sublime Text 3/Packages/TrailingSpaces/trailing_spaces.sublime-settings",
+		"/C/Users/友槻/AppData/Roaming/Sublime Text 3/Packages/User/trailing_spaces.sublime-settings"
+	],
+	"find":
+	{
+		"height": 41.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"public",
+			"){\n",
+			"\n		",
+			">()."
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "/C/Unity/Study_GoForwardUnityChan/Assets/UnityChanController.cs",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 212,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								24,
+								24
+							]
+						],
+						"settings":
+						{
+							"is_init_dirty_state": false,
+							"oops":
+							{
+								"6,17": "'UnityEngine' is not a known identifier",
+								"81,94": "'MonoBehaviour' is not a known identifier"
+							},
+							"syntax": "Packages/C#/C#.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "project.sublime-project",
+					"semi_transient": true,
+					"settings":
+					{
+						"buffer_size": 100,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"origin_encoding": "ASCII",
+							"syntax": "Packages/JavaScript/JSON.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 41.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 132.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.variable_get":
+	{
+		"height": 144.0
+	},
+	"pinned_build_system": "",
+	"project": "project.sublime-project",
+	"replace":
+	{
+		"height": 78.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 284.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
